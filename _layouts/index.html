@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div>
+  {{ content }}
+  <h1>Patterns</h1>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</div>
