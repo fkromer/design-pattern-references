@@ -35,9 +35,11 @@
 
         <h3>Pattern categories</h3>
 
+        <ul>
         {% for category in site.categories %}
           <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.categories.size }})</a></li>
         {% endfor %}
+        </ul>
 
       </header>
       <section>
