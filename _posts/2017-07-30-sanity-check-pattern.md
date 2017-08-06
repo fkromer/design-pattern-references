@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sanity Check Pattern (SC)"
-categories: embedded, hardware
+categories: ['embedded', 'hardware']
 ---
 
 Other names: -

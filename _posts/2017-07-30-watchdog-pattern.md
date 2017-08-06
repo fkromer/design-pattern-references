@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Watchdog Pattern (WD)"
-categories: embedded, hardware
+categories: ['embedded', 'hardware']
 ---
 
 Other names: Watchdog Timer, Watchdog Processor, Hardware Watchdog Pattern

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Triple Modular Redundany Pattern (TMR)"
-categories: embedded, hardware
+categories: ['embedded', 'hardware']
 ---
 
 Other names: 2-oo-3 Redundancy Pattern, Homogeneous Triplex Pattern

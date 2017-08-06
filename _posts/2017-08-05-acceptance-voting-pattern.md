@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acceptance Voting Pattern (AV)"
-categories: embedded, software
+categories: ['embedded', 'software']
 ---
 
 Other names: -

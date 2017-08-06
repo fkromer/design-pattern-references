@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "M-Out-Of-N Pattern (MooN)"
-categories: embedded, hardware
+categories: ['embedded', 'hardware']
 ---
 
 Other names: M/N Parallel Redundancy Pattern

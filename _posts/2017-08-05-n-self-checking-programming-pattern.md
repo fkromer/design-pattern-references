@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "N-Self Checking Programming Pattern (NSCP)"
-categories: embedded, software
+categories: ['embedded', 'software']
 ---
 
 Other names: -

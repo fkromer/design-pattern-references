@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Safety Executive Pattern (SE)"
-categories: embedded, hardware
+categories: ['embedded', 'hardware']
 ---
 
 Other names: Safety Kernel Pattern

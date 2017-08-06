@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "N-Version Programming Pattern (NVP)"
-categories: embedded, software
+categories: ['embedded', 'software']
 ---
 
 Other names: Master-Slave Pattern

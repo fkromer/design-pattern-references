@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recovery Block with Backup Voting Pattern (RBBV)"
-categories: embedded, software
+categories: ['embedded', 'software']
 ---
 
 Other names: -

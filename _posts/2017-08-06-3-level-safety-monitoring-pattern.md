@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3-Level Safety Monitoring Pattern (3-LSM)"
-categories: embedded, hardware, software
+categories: ['embedded', 'hardware', 'software']
 ---
 
 Other names: E-GAS

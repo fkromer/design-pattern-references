@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monitor-Actuator Pattern (MA)"
-categories: embedded, hardware
+categories: ['embedded', 'hardware']
 ---
 
 Other names: -

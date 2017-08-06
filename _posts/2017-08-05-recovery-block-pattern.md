@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recovery Block Pattern (RB)"
-categories: embedded, software
+categories: ['embedded', 'software']
 ---
 
 Other names: -

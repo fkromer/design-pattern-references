@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heterogeneous Duplex Pattern (HtD)"
-categories: embedded, hardware
+categories: ['embedded', 'hardware']
 ---
 
 Other names: Heterogeneous Redundancy Pattern, Standby-Sparse Pattern, Dynamic Redundancy Pattern, Two-Channel Redundancy Pattern

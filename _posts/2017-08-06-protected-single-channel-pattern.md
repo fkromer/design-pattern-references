@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Protected Single Channel Pattern"
-categories: embedded, hardware, software
+categories: ['embedded', 'hardware', 'software']
 ---
 
 Other names: -
