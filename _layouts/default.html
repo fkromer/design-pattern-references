@@ -33,11 +33,11 @@
           </ul>
         {% endif %}
 
-      Pattern categories:
+        <h3>Pattern categories</h3>
 
-      {% for category in site.categories %}
-        <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
-      {% endfor %}
+        {% for category in site.categories %}
+          <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.categories.size }})</a></li>
+        {% endfor %}
 
       </header>
       <section>
