@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Homogeneous Duplex Pattern (HmD)"
+title: "Heterogeneous Duplex Pattern (HtD)"
 categories: embedded, hardware
 ---
 
