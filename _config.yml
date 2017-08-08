@@ -3,3 +3,4 @@ description: References ressources about Design Patterns (system, software, hard
 show_downloads: false
 theme: jekyll-theme-minimal
 exclude: [vendor]
+github: [metadata]
