@@ -4,3 +4,4 @@ show_downloads: false
 theme: jekyll-theme-minimal
 exclude: [vendor]
 github: [metadata]
+baseurl: /design-pattern-references
