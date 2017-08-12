@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cloud Authentication Pattern"
-categories: ['clound', 'software']
+categories: ['cloud', 'software']
 ---
 
 Other names: -

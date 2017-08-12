@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cloud Authentication Gateway Pattern"
-categories: ['clound', 'software']
+categories: ['cloud', 'software']
 ---
 
 Other names: -
