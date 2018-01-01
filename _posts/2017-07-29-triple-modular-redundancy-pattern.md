@@ -9,4 +9,4 @@ Other names: 2-oo-3 Redundancy Pattern, Homogeneous Triplex Pattern
 This pattern is a variation of homogeneous how redundancy, that consists of three identical modules operate in parallel
 to detect random faults, in order to enhance reliability and safety in a system with no fail-safe-state.
 
-(Armoush 2010, p. 76)
+([Design Patterns for Safety-Critical Embedded Systems](http://sunsite.informatik.rwth-aachen.de/Publications/AIB/2010/2010-13.pdf), p. 76)

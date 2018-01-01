@@ -8,4 +8,4 @@ Other names: -
 
 The Sanity Check Pattern is considered as a lightweight pattern which is used to ensure that the basic channel is approximately correct.
 
-(Armoush 2010, p. 92)
+([Design Patterns for Safety-Critical Embedded Systems](http://sunsite.informatik.rwth-aachen.de/Publications/AIB/2010/2010-13.pdf), p. 92)

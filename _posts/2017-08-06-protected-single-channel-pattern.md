@@ -11,4 +11,4 @@ to enhance the safety and reliability through the addition of checks and monitor
 ing at different points in the channel. It is normally used to deal with transient
 faults.
 
-(Armoush 2010, p. 149)
+([Design Patterns for Safety-Critical Embedded Systems](http://sunsite.informatik.rwth-aachen.de/Publications/AIB/2010/2010-13.pdf), p. 149)

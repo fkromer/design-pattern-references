@@ -9,4 +9,4 @@ Other names: Heterogeneous Redundancy Pattern, Standby-Sparse Pattern, Dynamic R
 It is a hardware pattern that is used to increase the safety and reliability of the system
 by providing a replication of the same module (Modular redundancy) to deal with random faults.
 
-(Armoush 2010, p. 62)
+([Design Patterns for Safety-Critical Embedded Systems](http://sunsite.informatik.rwth-aachen.de/Publications/AIB/2010/2010-13.pdf), p. 62)

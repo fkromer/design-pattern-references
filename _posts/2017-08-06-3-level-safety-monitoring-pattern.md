@@ -11,4 +11,4 @@ Monitor-Actuator Pattern and the Watchdog Pattern to be suitable for the ap-
 plications that require a continuous safety monitoring and include a fail-safe
 state without high hardware redundancy. 
 
-(Armoush 2010, p. 154)
+([Design Patterns for Safety-Critical Embedded Systems](http://sunsite.informatik.rwth-aachen.de/Publications/AIB/2010/2010-13.pdf), p. 154)

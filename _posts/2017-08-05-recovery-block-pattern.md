@@ -8,4 +8,4 @@ Other names: -
 
 It is based on fault detection with acceptance tests and backward error recovery to avoid system failures.
 
-(Armoush 2010, p. 117)
+([Design Patterns for Safety-Critical Embedded Systems](http://sunsite.informatik.rwth-aachen.de/Publications/AIB/2010/2010-13.pdf), p. 117)
