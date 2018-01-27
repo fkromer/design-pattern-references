@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microservices chassis"
+title: "Microservice chassis"
 categories: ['software', 'microservice']
 ---
 
