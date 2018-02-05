@@ -1,4 +1,4 @@
-# design-pattern-reference
+# Design Pattern References
 
 [![Build Status](https://travis-ci.org/fkromer/design-pattern-references.png)](https://travis-ci.org/fkromer/design-pattern-references)
 
